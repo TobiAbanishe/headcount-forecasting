@@ -4,7 +4,7 @@
 **Tools:** Python | SQL | Power BI (DAX)  
 **Domain:** Workforce Planning | People Analytics  
 **Dataset:** Simulated | Grounded in SHRM 2023 and LinkedIn Global Talent Trends research  
-**Author:** Oluwutobi Abanishe — [LinkedIn](https://linkedin.com/in/oluwatobiabanishe) | [GitHub](https://github.com/TobiAbanishe)
+**Author:** Oluwatobi Abanishe — [LinkedIn](https://linkedin.com/in/oluwatobiabanishe) | [GitHub](https://github.com/TobiAbanishe)
 
 ---
 
@@ -158,6 +158,6 @@ project-04-headcount-forecasting/
 
 ## About the Author
 
-Oluwutobi Abanishe is an HR Analyst and BI Specialist with experience in SAP HCM, Power BI, SQL, and Python, focused on translating workforce data into actionable planning decisions.
+Oluwatobi Abanishe is an HR Analyst and BI Specialist with experience in SAP HCM, Power BI, SQL, and Python, focused on translating workforce data into actionable planning decisions.
 
 [LinkedIn](https://linkedin.com/in/oluwatobiabanishe) | [GitHub](https://github.com/TobiAbanishe) | tobi.abanishe@gmail.com
