@@ -11,4 +11,4 @@ It will produce four files:
 - separations.csv
 - new_hires.csv
 
-The raw data files are excluded from version control (.gitignore) to keep the repo lightweight. Run the script locally to generate them.
+The raw data files are excluded from version control to keep the repo lightweight. Run the script locally to generate them.
